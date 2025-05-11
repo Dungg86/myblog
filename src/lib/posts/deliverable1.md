@@ -3,7 +3,7 @@ title: "Deliverable 1: Tìm hiểu thư viện và đề xuất đề tài dự 
 date: "2025-05-11"
 updated: "2025-05-11"
 categories:
-
+  - "project"
 coverImage: "/images/deliverable.jpg"
 coverWidth: 16
 coverHeight: 9
