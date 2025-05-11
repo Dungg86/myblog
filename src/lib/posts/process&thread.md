@@ -4,7 +4,7 @@ date: "2025-05-05"
 updated: "2025-05-05"
 categories:
   - "process & thread"
-coverImage: "/images/process.jpg"
+coverImage: "/images/process1.jpg"
 coverWidth: 16
 coverHeight: 9
 excerpt: Cơ bản về tiến trình và luồng
